@@ -9,4 +9,4 @@ dependencies:
   # Install packages from pip
   - pip
   - pip:
-    - otter-grader
+    - globus-sdk
